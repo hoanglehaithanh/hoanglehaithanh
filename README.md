@@ -21,4 +21,4 @@
 - **Team leader of** [NeuralResearchLab](https://www.nrl.ai/) and **developer** of [NeuralVN](https://ai.neural.vn/) - Online knowledge sharing platform. -->
 - **LinkedIn:** [linkedin.com/in/hoanglehaithanh](https://www.linkedin.com/in/hoanglehaithanh/).
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoanglehaithanh)](https://github.com/hoanglehaithanh)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoanglehaithanh&theme=github_dark)](https://github.com/hoanglehaithanh)
